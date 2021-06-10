@@ -26,5 +26,6 @@ folderName/
 * templates - this is where you store your html templates i.e. index.html, layout.html
 * static - contains static files i.e. CSS, Javascript, images.
 
-
-<img src="https://github.com/SaiTeja-Erukude/ChatBot/blob/main/ChatBot.PNG" width="400">
+<p align="center">
+    <img src="https://github.com/SaiTeja-Erukude/ChatBot/blob/main/ChatBot.PNG" width="400">
+</p>
