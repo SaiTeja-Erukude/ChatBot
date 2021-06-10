@@ -9,8 +9,8 @@ ChatterBot Corpus Trainer is used to quickly train the bot to respond to various
 One can also create a custom corpus training data and train their bot. My bot is also trained on how to assist the users in movie ticket booking process.
 
 
-# Folder Directory
-
+## Folder Directory
+```
 folderName/
     app.py
     templates/
@@ -21,7 +21,7 @@ folderName/
         bot.gif
         bot.jpg
         user.png
-        
+```
 app.py - contains the actual python code that will import the app and start the development server.
 templates - this is where you store your html templates i.e. index.html, layout.html
 static - contains static files i.e. CSS, Javascript, images.
