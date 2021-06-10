@@ -27,4 +27,6 @@ folderName/
 * static - contains static files i.e. CSS, Javascript, images.
 
 
-![ChatBot](https://github.com/SaiTeja-Erukude/ChatBot/blob/main/ChatBot.PNG)
+<p align="center">
+  <img src="https://github.com/SaiTeja-Erukude/ChatBot/blob/main/ChatBot.PNG" width="40%">
+</p>
