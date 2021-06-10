@@ -25,3 +25,6 @@ folderName/
 * app.py - contains the actual python code that will import the app and start the development server.
 * templates - this is where you store your html templates i.e. index.html, layout.html
 * static - contains static files i.e. CSS, Javascript, images.
+
+
+![ChatBot](https://github.com/SaiTeja-Erukude/ChatBot/blob/main/ChatBot.PNG)
