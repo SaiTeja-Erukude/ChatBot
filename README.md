@@ -22,6 +22,6 @@ folderName/
         bot.jpg
         user.png
 ```
-app.py - contains the actual python code that will import the app and start the development server.
-templates - this is where you store your html templates i.e. index.html, layout.html
-static - contains static files i.e. CSS, Javascript, images.
+* app.py - contains the actual python code that will import the app and start the development server.
+* templates - this is where you store your html templates i.e. index.html, layout.html
+* static - contains static files i.e. CSS, Javascript, images.
