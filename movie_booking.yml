@@ -1,0 +1,21 @@
+categories:
+- movie ticket booking
+conversations:
+- - book movie ticket
+  - Which movie would you like to watch?
+- - book movie tickets
+  - Which movie would you like to watch?
+- - book ticket
+  - Which movie would you like to watch?
+- - book tickets
+  - Which movie would you like to watch?
+- - book tickets
+  - Which movie would you like to watch?
+- - black widow
+  - Please specify the theatre.
+- - spider man
+  - Please specify the theatre.
+- - inox
+  - Bookings are full! Please come back soon.
+- - who developed you
+  - I was built by 'Sai Teja Erukude'. Thanks to him!
